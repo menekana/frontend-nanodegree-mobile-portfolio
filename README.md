@@ -55,8 +55,8 @@ The portfolio was built on Twitter's <a href="http://getbootstrap.com/">Bootstra
 * <a href="http://getbootstrap.com/components/">Bootstrap's Components</a>
 
 ### Optimizations
-Inline minified style.css
-add media=“print” for print.css
-add async for scripts
-Google analytics async>
-inline font
+Inline minified style.css, 
+add media=“print” for print.css, 
+add async for scripts, 
+Google analytics async>, 
+inline font, 
